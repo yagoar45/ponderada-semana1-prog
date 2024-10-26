@@ -24,7 +24,4 @@ yarn dev
 ```
 
 ### 3. Acessar o catálogo de serviços
-
-Imagem 1: Backstage em execução no Docker
-
-Imagem 2: Acesso ao catálogo de serviços
+![alt text](image-1.png)
